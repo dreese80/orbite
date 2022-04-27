@@ -1,0 +1,6 @@
+1.00000000000000 # Gravitational constant
+1.00000000000000 # Planet mass
+0.100000000000000 # Planet radius
+0.00500000000000000 # Time step
+1 # Number of projectiles
+0.00000 0.500000 1.50000 0.00000 -16711936 # Particule 0
